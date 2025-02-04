@@ -4,11 +4,11 @@ This is the code-repo for **"S3AND: Efficient Subgraph Similarity Search Under A
 
 ## Check List
 
-Code	:heavy_check_mark:
+Code	&#x2705;
 
-Dataset Source	:heavy_check_mark:
+Dataset Source	&#x2705;
 
-README	:heavy_check_mark:
+README	&#x2705;
 
 
 
