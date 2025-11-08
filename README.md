@@ -10,15 +10,11 @@ Dataset Source	&#x2705;
 
 README	&#x2705;
 
-
-
 ## Required Environment
 
 1. networkx 3.1 or above
 2. torch_geometric (for loading datasets)
 3. yake (to divide the title for dblp_v14 to obtain the keywords)
-
-
 
 ## Data Sets
 
@@ -29,8 +25,6 @@ README	&#x2705;
 | Elliptic | 203,769   | 234,355    | 166       |
 | TWeibo   | 2,320,895 | 9,840,066  | 1,658     |
 | DBLPv14  | 2,956,012 | 29,560,025 | 7,990,611 |
-
-
 
 ## Usage
 
