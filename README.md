@@ -89,4 +89,15 @@ optional arguments:
 
 ## Conference
 
-wait.
+```
+@article{wen2025s3and,
+  title={S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics},
+  author={Wen, Qi and Ye, Yutong and Lian, Xiang and Chen, Mingsong},
+  journal={Proceedings of the VLDB Endowment},
+  volume={18},
+  number={11},
+  pages={3708--3720},
+  year={2025},
+  publisher={VLDB Endowment}
+}
+```
